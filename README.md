@@ -4,8 +4,8 @@
 </div>
 
 <!-- Badge rata kiri dengan lebar gambar -->
-<div align="left">
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" style="margin-right:20px;" />
-  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" style="margin-right:20px;" />
+<div align="left" style="margin-right:20px">
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" style="margin-right:8px;" />
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" style="margin-right:8px;" />
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </div>

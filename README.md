@@ -1,3 +1,3 @@
-<div aling="center">
-      <img src="img/kCkHROSi.jpeg" alt="Image" />
-</div>
+<p align="center">
+  <img src="img/kCkHROSi.jpeg" alt="Image" />
+</p>

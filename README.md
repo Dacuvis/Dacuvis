@@ -1,4 +1,8 @@
+<div align="center">
+
 ![img](img/kCkHROSi.jpeg)
+
+</div>
 
 # Introduce
 

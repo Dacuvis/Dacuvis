@@ -1,9 +1,6 @@
 <div align="center">
-
-![img](img/kCkHROSi.jpeg)
-
+  <img src="img/kCkHROSi.jpeg" alt="Image" style="width: 100vw; height: 50vh; object-fit: cover; border-radius: 20px;" />
 </div>
-
 # Introduce
 
 <div style="width: 600px; margin: 0 auto; text-align: left; margin-top: 15px;">

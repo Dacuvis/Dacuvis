@@ -1,8 +1,8 @@
-
 <div align="center">
   <img src="./img/kCkHROSi.jpeg" alt="Image" 
-       style="border-radius:20px; width: 80vw; height:40vh; object-fit: cover;" />
+       style="border-radius:20px; max-width: 80%; height: auto;" />
 </div>
+
 # Introduce
 
 <div style="width: 600px; margin: 0 auto; text-align: left; margin-top: 15px;">

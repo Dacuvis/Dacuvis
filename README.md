@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="img/kCkHROSi.jpeg" alt="Image" style="border-radius:10px; width: 100vw; height:40vh" />
+  <img src="img/kCkHROSi.jpeg" alt="Image" style="border-radius:20px; width: 100vw; height:40vh" />
 </div>
 
 <div style="width: 600px; margin: 0 auto; text-align: left; margin-top: 15px;">

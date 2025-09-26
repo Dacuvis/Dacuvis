@@ -1,7 +1,7 @@
 <div style="max-width: 600px; margin: 0 auto;">
   
   <!-- Gambar -->
-  <div style="text-align: center;">
+  <div style="text-align: center;" align="center">
     <img src="img/kCkHROSi.jpeg" alt="Image" style="border-radius:10px; max-width: 100%;" />
   </div>
 

@@ -1,6 +1,6 @@
 <!-- Gambar tetap di tengah -->
 <div align="center">
-  <img src="img/kCkHROSi.jpeg" alt="Image" style="border-radius:10px; width: 600px;" />
+  <img src="img/kCkHROSi.jpeg" alt="Image" style="border-radius:10px; width: 100vw;" />
 </div>
 
 <!-- Badge dengan container yang lebarnya sama dengan gambar -->

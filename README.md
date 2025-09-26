@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="./img/kCkHROSi.jpeg" alt="Image" 
-       style="border-radius:20px; max-width: 80%; height: auto;" />
-</div>
+![img](img/kCkHROSi.jpeg)
 
 # Introduce
 

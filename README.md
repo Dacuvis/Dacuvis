@@ -5,10 +5,11 @@
     style="
       width: 100vw; 
       height: 20vh; 
-      object-fit: cover; 
+      object-fit: fill; 
       border-radius: 20px;
     " 
   />
 </div>
+
 # About Me
 Lazy,Introvert Student with no brain

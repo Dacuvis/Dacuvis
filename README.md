@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/kCkHROSi.jpeg" alt="Image" style="width: 100vw; height: 30vh; object-fit: cover; border-radius: 20px;" />
+  <img src="img/kCkHROSi.jpeg" alt="Image" style="width: 100vw; object-fit: cover; border-radius: 20px;" />
 </div>
 
 # About Me

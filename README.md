@@ -4,8 +4,7 @@
     alt="Image" 
     style="
       width: 100vw; 
-      height: 20vh; 
-      object-fit: fill; 
+      /* Hapus height dan object-fit sementara */
       border-radius: 20px;
     " 
   />

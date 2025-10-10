@@ -1,4 +1,4 @@
 
-!\[Header\](/img/github-header-banner.png)
+![Header](/img/github-header-banner.png)
 # About Me
 Lazy,Introvert Student with no brain

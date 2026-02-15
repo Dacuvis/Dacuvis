@@ -26,14 +26,14 @@ s4y4 j4d1 g0d m0d3 ✨
 pl3nG3r t4p1 s3rv3r m4s1h h1dUp.
 itu y4ng p3nt1nG.
 
--> bAcKeNd dEv??? l0l
--> nOdE.jS eNj0yEr??? 404 sLeEp nOt fOuNd
--> pRoFfF3sS1oNaL cOnSoLe.LoG uSeR.exe
+-> bAcKeNd dEv??? l0l <br>
+-> nOdE.jS eNj0yEr??? 404 sLeEp nOt fOuNd <br>
+-> pRoFfF3sS1oNaL cOnSoLe.LoG uSeR.exe <br>
 
-90% c0d1n9…
-10% 404 c0mp1l3 n0t r3sp0nd1n9
+90% c0d1n9… <br>
+10% 404 c0mp1l3 n0t r3sp0nd1n9 <br>
 
-⚠️ b4H4s4 p4l1n9 s3r1n9 d1p4k41
+⚠️ b4H4s4 p4l1n9 s3r1n9 d1p4k41 <br>
 b3LuM t3nTu r4m4h d1 0t4k.
 
 

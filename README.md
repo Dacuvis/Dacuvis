@@ -26,9 +26,9 @@ s4y4 j4d1 g0d m0d3 ✨
 pl3nG3r t4p1 s3rv3r m4s1h h1dUp.
 itu y4ng p3nt1nG.
 
-> bAcKeNd dEv??? l0l
-> nOdE.jS eNj0yEr??? 404 sLeEp nOt fOuNd
-> pRoFfF3sS1oNaL cOnSoLe.LoG uSeR.exe
+-> bAcKeNd dEv??? l0l
+-> nOdE.jS eNj0yEr??? 404 sLeEp nOt fOuNd
+-> pRoFfF3sS1oNaL cOnSoLe.LoG uSeR.exe
 
 90% c0d1n9…
 10% 404 c0mp1l3 n0t r3sp0nd1n9
